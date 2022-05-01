@@ -64,6 +64,7 @@ class Snakes_and_Ladders:
                 print(f"The dice says you to move {number_of_jumps} places")
                 self._move_player(
                     number_of_jumps=number_of_jumps, player_number=i+1)
+                input()
 
     def _move_player(self, number_of_jumps, player_number):
         initial_position = self.player_pos[player_number-1]
