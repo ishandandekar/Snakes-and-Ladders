@@ -3,4 +3,4 @@
 <br>
 Hello and welcome,
 This is the snakes and ladders game repository which uses graphs data structure.
-If you want to contribute, please email __ishandandekar2002@gmail.com__
+If you want to contribute, please email <strong>ishandandekar2002@gmail.com</strong>
