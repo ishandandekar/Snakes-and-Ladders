@@ -100,6 +100,10 @@ class Snakes_and_Ladders:
         print(self.nbrs[vertex])
 
 
+def main():
+    client = Snakes_and_Ladders()
+
+
 # Testing the game
 if __name__ == '__main__':
-    client = Snakes_and_Ladders()
+    main()
